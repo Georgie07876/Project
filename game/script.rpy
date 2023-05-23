@@ -42,7 +42,7 @@ label start:
     "....."
 
     nn "-эй, проснись, ну же, он идёт сюда...."
-
+    jump demo_minigame_pong
     play music musfear
     play sound muss
 
